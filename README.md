@@ -2,7 +2,7 @@
 ```markdown
 # 🗳️ Intervue.io - Live Polling App
 
-A real-time polling web application built as part of the SDE Intern assignment for Intervue.io. The platform allows **teachers** to create timed multiple-choice polls and **students** to respond in real time with live result tracking and engagement analytics.
+A real-time polling web application. The platform allows **teachers** to create timed multiple-choice polls and **students** to respond in real time with live result tracking and engagement analytics.
 
 ## 🚀 Features
 
